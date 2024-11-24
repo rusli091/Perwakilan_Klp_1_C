@@ -1,7 +1,6 @@
 # Tugas Studi Kasus_Bahan_Presentasi
 ______________________
 #  Perwakilan Kelompok 1
-----------------------
 Nama : Muh.Rusli
 
 Kelas : C
