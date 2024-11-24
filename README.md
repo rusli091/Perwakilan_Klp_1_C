@@ -38,7 +38,9 @@ python eda.py
 project/
 │
 ├── data_preparation.py
-├── eda.py              
+├── dataset_cleaned.csv
+├── eda.py
+├── file_dataset.csv         
 └── requirements.txt    
 ```
 
