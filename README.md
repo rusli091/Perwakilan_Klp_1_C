@@ -1,6 +1,8 @@
 # Tugas Studi Kasus_Bahan_Presentasi
-Nama : Muh.Rusli\n
-Kelas : C\n
+Nama : Muh.Rusli
+
+Kelas : C
+
 Nim : 60900122074
 
 # Panduan Setup Analisis Data untuk VS Code
